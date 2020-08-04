@@ -1,4 +1,4 @@
-# Leetcode-solutions
+# reverse integer -leetcode solution
 
 Given a 32-bit signed integer, reverse digits of an integer.
 
